@@ -1,6 +1,5 @@
 
 ---
-
 # Photographic Website
 
 ## Project Overview
