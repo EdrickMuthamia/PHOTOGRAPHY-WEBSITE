@@ -1,5 +1,4 @@
-# Photographic Website
-=======
+# Photographic Websit
 
 ## Project Title: **Photography Portfolio - Collection of Memories**
 
